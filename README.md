@@ -1,17 +1,21 @@
-# REACT Front-End technical test
+# ReactJS Front-End technical test
 **Fork me and Feel free to apply!**
 
 ## Summary
 The goal of this test is to make ReactJS code with small ReactJS app. please init project with `your_name` branch 
 Write your own code structure to follow these instruction.
 
-The app will be a Todo Grid list with the following features:
+The app will be a responsive Grid list with the following features:
 - Title
 - Image
 - content
 - button
+- The user would also be able mark a Todo 'isDone' and have them displayed appropriately.
+- Grid have to be different in desktop and mobile devices.
 
 ## Use Create-react-app to init project
+[link](https://create-react-app.dev/)
+>Feel free to code with your own style (Class Or Hook Base)
 
 ## Use Bootstrap to make it
 
@@ -30,7 +34,7 @@ Show me what you can do :) Don't spend too much time on designing your app.
 
 **Bonus:** 
 - Typescript 
-- The user would also be able mark a Todo 'isDone' and have them displayed appropriately. Please code that only if you have extra time.
+
 
 ## Result
 - Publish your result to "your_name" branch
