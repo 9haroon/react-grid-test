@@ -29,11 +29,10 @@ Show me what you can do :) Don't spend too much time on designing your app.
 - Features listed above
 - React
 - Responsive design
-- Redux (to make 'isDone' feature)
-- Typescript (if you prefer)
 
 **Bonus:** 
 - Typescript 
+- Redux
 
 
 ## Result
